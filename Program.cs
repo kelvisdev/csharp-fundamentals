@@ -1,5 +1,4 @@
-﻿using System;
-using static System.Console;
+﻿using static System.Console;
 
 namespace HelloWorld
 {
@@ -7,35 +6,19 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            double salario = 0;
-            double gastosMensais = 0;
-            bool temDecimoTerceiro = false;
-
-            Write("Informe seu salario: ");
-            salario = Convert.ToDouble(ReadLine());
-
-            Write("Informe seu gasto mensal: ");
-            gastosMensais = Convert.ToDouble(ReadLine());
-
-            Write("Tem Décimo Terceiro? ");
-            Boolean.TryParse(ReadLine(), out temDecimoTerceiro );
-
-            if (temDecimoTerceiro)
+            for (int i = 0; i <= 10; i++)
             {
-                salario += salario;
+                WriteLine($"Num => {i}");
             }
 
-            if (gastosMensais > salario)
+            string[] nomes = new string[3] { "Kelvis", "Bruce", "Fulano" };
+
+            for (int i = 0; i < nomes.Length; i++)
             {
-                WriteLine("Precisa economizar!");
-            } else if (gastosMensais == salario)
-            {
-                WriteLine("Ufa! Foi por pouco! To Zerado!");
-            } else
-            {
-                WriteLine("Legal! Sobrou dinheiro pro X-tudo!");
+                if (i == 1) break;
+
+                WriteLine($"Olá {nomes[i]}");
             }
-            
 
             ReadKey();
         }
