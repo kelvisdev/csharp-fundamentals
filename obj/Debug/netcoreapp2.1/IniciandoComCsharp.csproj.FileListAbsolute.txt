@@ -1,0 +1,11 @@
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\IniciandoComCsharp.deps.json
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\IniciandoComCsharp.runtimeconfig.json
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\IniciandoComCsharp.runtimeconfig.dev.json
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\IniciandoComCsharp.dll
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\IniciandoComCsharp.pdb
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.csprojAssemblyReference.cache
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.csproj.CoreCompileInputs.cache
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.AssemblyInfoInputs.cache
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.AssemblyInfo.cs
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.dll
+C:\Developer\AspnetCore\csharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\IniciandoComCsharp.pdb
