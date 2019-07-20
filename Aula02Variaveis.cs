@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 
-namespace HelloWorld
+namespace IniciandoComCsharp
 {
     class Aula02Variaveis
     {

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Developer\\AspnetCore\\csharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Developer\\AspnetCore\\csharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Developer\\AspnetCore\\csharp\\HelloWorld\\HelloWorld\\IniciandoComCsharp.csproj",
+      "projectName": "IniciandoComCsharp",
+      "projectPath": "C:\\Developer\\AspnetCore\\csharp\\HelloWorld\\HelloWorld\\IniciandoComCsharp.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Developer\\AspnetCore\\csharp\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",

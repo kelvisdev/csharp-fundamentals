@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 using static System.Console;
 
-namespace AvancandoCSharp
+namespace IniciandoComCsharp
 {
     class Aula16FuncoesDeStringBuilder
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using static System.Console;
 
-namespace HelloWorld
+namespace IniciandoComCsharp
 {
     class Aula08EstruturaDeDadosTuplas
     {

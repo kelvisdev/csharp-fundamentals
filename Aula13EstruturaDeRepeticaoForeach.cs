@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using static System.Console;
 
-namespace HelloWorld
+namespace IniciandoComCsharp
 {
     class Aula13EstruturaDeRepeticaoForeach
     {

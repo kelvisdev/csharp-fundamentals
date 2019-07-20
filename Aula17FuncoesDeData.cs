@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 using static System.Console;
 
-namespace AvancandoCSharp
+namespace IniciandoComCsharp
 {
     class Aula17FuncoesDeData
     {
@@ -15,7 +15,6 @@ namespace AvancandoCSharp
 
             string horaFormatada = String.Format("{0:HH}h{0:mm}", data);
             string dataFormatada = String.Format("{0:dd/MM/yyyy}", data);
-
 
             WriteLine(data);
             WriteLine(horaFormatada);

@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Console;
 
-namespace HelloWorld
+namespace IniciandoComCsharp
 {
     class Aula09EstruturaDeDecisaoIfElseifElse
     {

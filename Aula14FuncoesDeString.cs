@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 using static System.Console;
 
-namespace AvancandoCSharp
+namespace IniciandoComCsharp
 {
     class Aula14FuncoesDeString
     {
